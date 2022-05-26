@@ -19,20 +19,21 @@ Some are just for fun:
 
 
 Plans for 2022:
-- getting {juncture} and {spccharter} onto CRAN
 - I’m currently dabbling with Python and Julia, and starting to use Linux more often
 
 
 How to reach me: 
 - direct message here , on twitter (@_johnmackintosh) or my website [johnmackintosh.net](https://johnmackintosh.net)
 
-Skills: 
+Skills:  
+- Data Analysis and Visualisation,  Business Intelligence dashboards and reporting, Statistical Process Control, Quality Improvement, Public Health
+
+Tech:
 - R, 
 - SQL & SQL Server, 
 - Qlik, 
-- PowerBI, 
-- Excel & VBA, 
-- applying Statistical Process Control
+- PowerBI
+
 
 
 
