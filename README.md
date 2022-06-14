@@ -12,29 +12,27 @@ Some are built to solve problems that other analysts have raised:
 - [patientcounter](https://github.com/johnmackintosh/patientcounter)  
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter})  
 
-Some are just for fun:  
-
-- [rockthemes](https://github.com/johnmackintosh/rockthemes)  
-- [popthemes](https://github.com/johnmackintosh/popthemes)   
-
-
 Plans for 2022:
 - I’m currently dabbling with Python and Julia, and starting to use Linux more often
 
-
 How to reach me: 
-- direct message here , on twitter (@_johnmackintosh) or my website [johnmackintosh.net](https://johnmackintosh.net)
+- ![Twitter Follow](https://img.shields.io/twitter/follow/_johnmackintosh?style=social)  
+- [johnmackintosh.net](https://johnmackintosh.net)
+- ![GitHub followers](https://img.shields.io/github/followers/johnmackintosh?style=social)
 
 Skills:  
 - Data Analysis and Visualisation,  Business Intelligence dashboards and reporting, Statistical Process Control, Quality Improvement, Public Health
 
 Tech:
-- R, 
-- SQL & SQL Server, 
-- Qlik, 
-- PowerBI
 
-
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)  
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)  
+![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)  
+<img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />  
+<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />  
+![Qlik](https://img.shields.io/badge/Qlik-Sense-green)  
+![QlikView](https://img.shields.io/badge/Qlik-View-brightgreen)  
 
 
 
