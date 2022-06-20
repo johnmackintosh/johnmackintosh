@@ -19,6 +19,7 @@ How to reach me:
 - ![Twitter Follow](https://img.shields.io/twitter/follow/_johnmackintosh?style=social)  
 - [johnmackintosh.net](https://johnmackintosh.net)
 - ![GitHub followers](https://img.shields.io/github/followers/johnmackintosh?style=social)
+- ![Github Visitors](https://komarev.com/ghpvc/?username=johnmackintosh)
 
 Skills:  
 - Data Analysis and Visualisation,  Business Intelligence dashboards and reporting, Statistical Process Control, Quality Improvement, Public Health
