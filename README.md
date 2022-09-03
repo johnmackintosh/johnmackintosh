@@ -13,7 +13,7 @@ Some are built to solve problems that other analysts have raised:
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter})  
 
 Plans for 2022:
-- I’m currently dabbling with Python and Julia, and starting to use Linux more often
+- Keeping the lights on
 
 How to reach me: 
 - ![Twitter Follow](https://img.shields.io/twitter/follow/_johnmackintosh?style=social)  
