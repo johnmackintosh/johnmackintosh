@@ -12,10 +12,9 @@ Some are built to solve problems that other analysts have raised:
 - [patientcounter](https://github.com/johnmackintosh/patientcounter)  
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter})  
 
-Plans for 2022:
-- Keeping the lights on
 
 How to reach me: 
+- [mastodon](https://fosstodon.org/@johnmackintosh)
 - ![Twitter Follow](https://img.shields.io/twitter/follow/_johnmackintosh?style=social)  
 - [johnmackintosh.net](https://johnmackintosh.net)
 - ![GitHub followers](https://img.shields.io/github/followers/johnmackintosh?style=social)
