@@ -7,11 +7,16 @@ Some I built in my own time for use in my job, and am sharing to help other anal
 - [runcharter](https://github.com/johnmackintosh/runcharter) or install [from CRAN](https://CRAN.R-project.org/package=runcharter)
 - [cusumcharter](https://github.com/johnmackintosh/cusumcharter) or install [from CRAN](https://CRAN.R-project.org/package=cusumcharter)
 - [spccharter](https://github.com/johnmackintosh/spccharter) 
-- [rockthemes](https://github.com/johnmackintosh/rockthemes) 
+
 
 Some are built to solve problems that other analysts have raised:  
 - [patientcounter](https://github.com/johnmackintosh/patientcounter)  
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter})  
+
+Some are just for fun:  
+- [rockthemes](https://github.com/johnmackintosh/rockthemes)
+- [popthemes](https://github.com/johnmackintosh/popthemes)  
+- [metallicart](https://github.com/johnmackintosh/metallicart) 
 
 
 <h2 align="left">Follow me</h2>
