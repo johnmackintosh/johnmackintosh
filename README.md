@@ -13,12 +13,12 @@ Some are built to solve problems that other analysts have raised:
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter})  
 
 
-<h2 align="center">Follow me</h2>
-<p align="center">
+<h2 align="left">Follow me</h2>
+<p align="left">
 <a href="https://fosstodon.org/@johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="John MacKintosh Fosstodon" src=https://img.shields.io/mastodon/follow/000240090?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
-<a href="https://johnmackintosh.net" target="_blank" rel="noopener noreferrer"></a>
  </p> 
  
+- [Blog](https://johnmackintosh.net) 
 - ![GitHub followers](https://img.shields.io/github/followers/johnmackintosh?style=social)
 - ![Github Visitors](https://komarev.com/ghpvc/?username=johnmackintosh)
 
