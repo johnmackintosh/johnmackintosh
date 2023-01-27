@@ -35,7 +35,7 @@ Skills:
 
 <h2 align="center">Tech:</h2>
 <p align="center">
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)  
+<a![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R) </a>  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)  
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)  
