@@ -13,18 +13,28 @@ Some are built to solve problems that other analysts have raised:
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter})  
 
 
-How to reach me: 
-- [mastodon](https://fosstodon.org/@johnmackintosh)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/_johnmackintosh?style=social)  
-- [johnmackintosh.net](https://johnmackintosh.net)
+<h2 align="center">Follow me</h2>
+<p align="center">
+<a href="https://fosstodon.org/@johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="John MacKintosh Fosstodon" src=https://img.shields.io/mastodon/follow/109428963417193764?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
+ <a href="https://twitter.com/_johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/John MacKintosh" /></a>
+<a href="https://johnmackintosh.net" target="_blank" rel="noopener noreferrer"></a>
+ </p> 
+ 
 - ![GitHub followers](https://img.shields.io/github/followers/johnmackintosh?style=social)
 - ![Github Visitors](https://komarev.com/ghpvc/?username=johnmackintosh)
 
+
 Skills:  
-- Data Analysis and Visualisation,  Business Intelligence dashboards and reporting, Statistical Process Control, Quality Improvement, Public Health
+- Data Analysis and Visualisation 
+- Business Intelligence dashboards and reporting 
+- Statistical Process Control 
+- Quality Improvement
+- Public Health
 
-Tech:
 
+
+<h2 align="center">Tech:</h2>
+<p align="center">
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)  
@@ -32,7 +42,8 @@ Tech:
 <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />  
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />  
 ![Qlik](https://img.shields.io/badge/Qlik-Sense-green)  
-![QlikView](https://img.shields.io/badge/Qlik-View-brightgreen)  
+![QlikView](https://img.shields.io/badge/Qlik-View-brightgreen)
+</p>  
 
 
 
