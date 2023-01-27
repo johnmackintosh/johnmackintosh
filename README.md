@@ -4,7 +4,7 @@ You'll find a mix of projects here.
 
 Some I built in my own time for use in my job, and am sharing to help other analysts in the NHS:  
 
-- [runcharter](https://github.com/johnmackintosh/runcharter) or istall [from CRAN](https://CRAN.R-project.org/package=runcharter)
+- [runcharter](https://github.com/johnmackintosh/runcharter) or install [from CRAN](https://CRAN.R-project.org/package=runcharter)
 - [cusumcharter](https://github.com/johnmackintosh/cusumcharter) or install [from CRAN](https://CRAN.R-project.org/package=cusumcharter)
 - [spccharter](https://github.com/johnmackintosh/spccharter) 
 - [rockthemes](https://github.com/johnmackintosh/rockthemes) 
