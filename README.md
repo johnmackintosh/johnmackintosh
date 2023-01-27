@@ -16,7 +16,6 @@ Some are built to solve problems that other analysts have raised:
 <h2 align="center">Follow me</h2>
 <p align="center">
 <a href="https://fosstodon.org/@johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="John MacKintosh Fosstodon" src=https://img.shields.io/mastodon/follow/000240090?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
- <a href="https://twitter.com/_johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/John MacKintosh" /></a>
 <a href="https://johnmackintosh.net" target="_blank" rel="noopener noreferrer"></a>
  </p> 
  
