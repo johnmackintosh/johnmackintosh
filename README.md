@@ -29,7 +29,17 @@ Some are just for fun:
 - ![Github Visitors](https://komarev.com/ghpvc/?username=johnmackintosh)
 
 
-Skills:  
+# Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Pivoting in tidyr and data.table](https://johnmackintosh.net/blog/2023-02-20-tidydt-pivot/)
+- [Fixing my broken VSCode setup for R](https://johnmackintosh.net/blog/2023-02-04-vsc/)
+- [Making headlines](https://johnmackintosh.net/blog/2023-01-26-headlines/)
+- [On target](https://johnmackintosh.net/blog/2022-12-14-targets/)
+- [Cover Up](https://johnmackintosh.net/blog/2022-09-22-picture/)
+<!-- BLOG-POST-LIST:END -->
+
+
+# Skills:  
 - Data Analysis and Visualisation 
 - Business Intelligence dashboards and reporting 
 - Statistical Process Control 
@@ -38,7 +48,7 @@ Skills:
 
 
 
-Tech:  
+# Tech:  
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)  
@@ -49,14 +59,6 @@ Tech:
 ![QlikView](https://img.shields.io/badge/Qlik-View-brightgreen)
 
 
-# Recent Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Pivoting in tidyr and data.table](https://johnmackintosh.net/blog/2023-02-20-tidydt-pivot/)
-- [Fixing my broken VSCode setup for R](https://johnmackintosh.net/blog/2023-02-04-vsc/)
-- [Making headlines](https://johnmackintosh.net/blog/2023-01-26-headlines/)
-- [On target](https://johnmackintosh.net/blog/2022-12-14-targets/)
-- [Cover Up](https://johnmackintosh.net/blog/2022-09-22-picture/)
-<!-- BLOG-POST-LIST:END -->
 
 
 <!--
