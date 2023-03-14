@@ -49,7 +49,7 @@ Tech:
 ![QlikView](https://img.shields.io/badge/Qlik-View-brightgreen)
 
 
-# Blog posts
+# Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Pivoting in tidyr and data.table](https://johnmackintosh.net/blog/2023-02-20-tidydt-pivot/)
 - [Fixing my broken VSCode setup for R](https://johnmackintosh.net/blog/2023-02-04-vsc/)
