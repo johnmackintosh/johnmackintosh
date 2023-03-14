@@ -49,7 +49,9 @@ Tech:
 ![QlikView](https://img.shields.io/badge/Qlik-View-brightgreen)
 
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
