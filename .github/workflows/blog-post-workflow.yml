@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '30 * * * *' # Runs every hour, on the half hour
+    - cron: '30 * * * *' # Runs every hour, on the half hour # https://crontab.guru/
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
