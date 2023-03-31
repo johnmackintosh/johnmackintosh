@@ -49,7 +49,7 @@ Some R packages I built for fun:
 
 # My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pivoting in tidyr and data.table](https://johnmackintosh.net/blog/2023-02-20-tidydt-pivot/)
+- [Pivoting data in R with tidyr and data.table](https://johnmackintosh.net/blog/2023-02-20-tidydt-pivot/)
 - [Fixing my broken VSCode setup for R](https://johnmackintosh.net/blog/2023-02-04-vsc/)
 - [Making headlines](https://johnmackintosh.net/blog/2023-01-26-headlines/)
 - [On target](https://johnmackintosh.net/blog/2022-12-14-targets/)
