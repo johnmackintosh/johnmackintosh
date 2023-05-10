@@ -35,8 +35,7 @@ Some R packages I built for fun:
 - [metallicart](https://github.com/johnmackintosh/metallicart) 
 
 
-# Disappointingly, I am on social media:
-<h2 align="left">Follow me</h2>
+# Contacts:
 <p align="left">
 <a href="https://fosstodon.org/@johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="John MacKintosh Fosstodon" src=https://img.shields.io/mastodon/follow/000240090?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
  </p> 
