@@ -26,9 +26,10 @@ Some tools I built in my own time for use in my job, and sharing to help other a
 
 
 Some tools to solve problems that other analysts have raised:  
-- [patientcounter](https://github.com/johnmackintosh/patientcounter)  
+- [patientcounter](https://github.com/johnmackintosh/patientcounter) : census tables without SQL
+- [dbexplorer](https://github.com/johnmackintosh/scodas-dbexplorer) : a shiny app to visualise your database tables
 - [juncture](https://github.com/johnmackintosh/juncture) (this is a revision of {patientcounter}) 
-- [dbexplorer](https://github.com/johnmackintosh/scodas-dbexplorer)
+
 
 Some R packages I built for fun:  
 - [rockthemes](https://github.com/johnmackintosh/rockthemes)
