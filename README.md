@@ -50,7 +50,7 @@ Some R packages I built for fun:
 
 # My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [That’s a &lpar;W&rpar;RAP!](https://johnmackintosh.net/blog/2023-12-06-ph-profiles/)
+- [That’s a W&lpar;RAP&rpar;!](https://johnmackintosh.net/blog/2023-12-06-ph-profiles/)
 - [checks and {tiny}testing - a quick primer](https://johnmackintosh.net/blog/2023-10-07-checks-and-tests/)
 - [Create your first Excel LAMBDA function](https://johnmackintosh.net/blog/2023-08-10-excel-lambda-intro/)
 - [Achieve your target](https://johnmackintosh.net/blog/2023-05-21-simple-targets/)
