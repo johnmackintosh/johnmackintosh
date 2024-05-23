@@ -51,10 +51,10 @@ Some R packages I built for fun:
 # My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Metallica tour history with R and PowerBI](https://johnmackintosh.net/blog/powerbi/2024-05-23-met-bi/)
-- [Resolving errors connecting PowerBI to Linux version of MS SQL Server](https://johnmackintosh.net/blog/powerbi/2024-03-15-pbi-mssql-connect/)
 - [new programming with data.table](https://johnmackintosh.net/blog/2024-02-05-dt-programming/)
 - [more .I in data.table](https://johnmackintosh.net/blog/2024-02-03-more-dot-I/)
 - [.I in data.table](https://johnmackintosh.net/blog/2024-01-03-dot-I/)
+- [non-equi joins in data.table](https://johnmackintosh.net/blog/2023-12-22-non-equi-joins/)
 <!-- BLOG-POST-LIST:END -->
 
 
