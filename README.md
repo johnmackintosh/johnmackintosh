@@ -37,13 +37,8 @@ Some R packages I built for fun:
 - [metallicart](https://github.com/johnmackintosh/metallicart) 
 
 
-# Contacts:
-<p align="left">
-<a href="https://fosstodon.org/@johnmackintosh" target="_blank" rel="noopener noreferrer"> <img alt="John MacKintosh Fosstodon" src=https://img.shields.io/mastodon/follow/000240090?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
- </p> 
- 
+# Blog:
 - [johnmackintosh.net](https://johnmackintosh.net) 
-- ![GitHub followers](https://img.shields.io/github/followers/johnmackintosh?style=social)
 - ![Github Visitors](https://komarev.com/ghpvc/?username=johnmackintosh)
 
 
