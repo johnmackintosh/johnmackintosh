@@ -43,8 +43,8 @@ Some R packages I built for fun:
 
 
 
-# My most recent blog posts
-<!-- BLOG-POST-LIST:START -->
+<!--# My most recent blog posts
+<!-- BLOG-POST-LIST:START 
 - [Once more ‘round the sun](https://johnmackintosh.net/blog/2025-01-01-once-more/)
 - [The life changing magic of tidying text files](https://johnmackintosh.net/blog/rstats/2024-12-22-tidying-text-files/)
 - [new programming with data.table](https://johnmackintosh.net/blog/2024-02-05-dt-programming/)
