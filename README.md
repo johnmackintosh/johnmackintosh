@@ -1,11 +1,5 @@
 ### Hi 
 
-# Using:  
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
-![RStudio](https://img.shields.io/badge/-RStudio-007ACC?logo=RStudio&logoColor=white&style=flat)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb) 
-![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=Power-BI&logoColor=black)
 
 # Skills:  
 - Data Analysis and Visualisation 
